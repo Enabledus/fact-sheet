@@ -65,7 +65,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 Soon
 
 ### Terrorism
-- [Left-Wing terrorists are over-represented in terror attacks across the EU](https://www.europol.europa.eu/activities-services/main-reports/european-union-terrorism-situation-and-trend-report-te-sat-2020)
+- [Left-Wing terrorists are responsible for a majority of terror attacks across the EU](https://www.europol.europa.eu/activities-services/main-reports/european-union-terrorism-situation-and-trend-report-te-sat-2020)
 
 ### Transgender
 - [Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)
