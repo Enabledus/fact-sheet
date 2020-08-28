@@ -37,7 +37,7 @@ Include PJonasson 2017
 Test
 
 ### Pedophilia
-Test
+- [65% of questioned MAPs defined themselves as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
 
 ### Hydroxychloroquine
 Test
@@ -50,6 +50,9 @@ Test
 > **Parents** describe that the onset of gender dysphoria seemed to occur in the context of belonging to a peer group where one, multiple, or even all the friends have become gender dysphoric and transgender-identified during the same timeframe.
 
 ### Islam
+- [28% of British muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
+> A variation on this is a desire on the part of 28 percent for Britain to become an Islamic state.
+- [61% of British muslims believe that homosexuality should be illegal](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
 Jew bad!!! homosexual bad!!
 
 ### Prostitution
@@ -63,3 +66,7 @@ Jew bad!!! homosexual bad!!
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
 > 37% Blacks, 32% coloured, 50% Indian/Asian & 47% White have felt racially discriminated against
 iq hmm
+
+### Vaccine
+- [Biocompatible near-infrared quantum dots delivered to the skin by microneedle patches record vaccination](https://pubmed.ncbi.nlm.nih.gov/31852802/)
+- [Receiving influenza vaccination **may** increase the risk of other respiratory viruses](https://pubmed.ncbi.nlm.nih.gov/31607599/)
