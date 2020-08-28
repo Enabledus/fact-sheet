@@ -2,9 +2,9 @@
 General fact sheet linking to studies
 
 ### Abortion
-- [Why do women have abortions?]https://pubmed.ncbi.nlm.nih.gov/3243347/
-- [The science is conclusive: That fetus is a baby]https://eu.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/12/12/science-conclusive-fetus-baby-iowa-fetal-heartbeat-law-abortion/2286938002/
-- [A shameful silence from biology professors regarding when life begins ]https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/
+- [Why do women have abortions?](https://pubmed.ncbi.nlm.nih.gov/3243347/)
+- [The science is conclusive: That fetus is a baby](https://eu.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/12/12/science-conclusive-fetus-baby-iowa-fetal-heartbeat-law-abortion/2286938002/)
+- [A shameful silence from biology professors regarding when life begins ](https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
