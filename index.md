@@ -4,7 +4,7 @@ General fact sheet linking to studies and similar. haTEFaCTS
 ### Abortion
 - [Why do women have abortions?](https://pubmed.ncbi.nlm.nih.gov/3243347/)
 - [The science is conclusive: That fetus is a baby](https://eu.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/12/12/science-conclusive-fetus-baby-iowa-fetal-heartbeat-law-abortion/2286938002/)
-- [A shameful silence from biology professors regarding when life begins ](https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/)
+- [A shameful silence from biology professors regarding when life begins](https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/)
 - [Biologists' Consensus on 'When Life Begins'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211703)
 > Overall, 95% of all biologists affirmed the biological view that a human's life begins at fertilization (5212 out of 5502).
 
@@ -12,9 +12,7 @@ General fact sheet linking to studies and similar. haTEFaCTS
 - [Infants prefer own race faces](https://www.fatherly.com/health-science/science-little-kids-racist-parents/)
 
 ### Holocaust
-- [10% of idk do idk](http://google.com)
-> Cool fact ik
-Test
+Soon
 
 ### Criminality
 - [Sweden serious crimes spiked (Crime Harm Index)](https://www.researchgate.net/publication/339859109_Designing_the_Swedish_Crime_Harm_Index_an_Evidence-Based_Strategy)
@@ -55,7 +53,7 @@ Include PJonasson 2017
 - [65% of questioned MAPs identify as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
 
 ### Hydroxychloroquine
-Test
+Soon
 
 ### Terrorism
 - [Left-Wing terrorists are over-represented in terror attacks across the EU](https://www.europol.europa.eu/activities-services/main-reports/european-union-terrorism-situation-and-trend-report-te-sat-2020)
