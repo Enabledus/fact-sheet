@@ -81,7 +81,7 @@ Soon
 - [A Follow-Up Study of Girls With Gender Identity Disorder](https://www.researchgate.net/publication/5657572_A_Follow-Up_Study_of_Girls_With_Gender_Identity_Disorder)
 > At follow-up, **3 participants (12%)** were judged to have GID or gender dysphoria, and **40% were subthreshold for the diagnosis**.
 >> In answering these questions, **22 participants (88%)** reported no distress with their female gender identity at follow-up
->>> Regarding sexual orientation, 8 participants (32%) were classified as bisexual/homosexual in fantasy, and 6 (24%) were classified as bisexual/homosexual in behavior.
+>>> On the basis of this information, **2 of the participants met DSM–IV–TR criteria for GID**. Although the other participant did not meet full criteria for GID, information  from  the clinical interview and semi structured GID interview indicated that she was gender dysphoric at follow-up.
 - [A Follow-Up Study Of Boys With GID](https://images.nymag.com/images/2/daily/2016/01/SINGH-DISSERTATION.pdf)
 > The present study found that the majority of boys with GID showed desistence of their gender dysphoria when followed into adolescence and adulthood: 87.8% of the boys did
 >>> **criteria applicable at the time of assessment. A total of _88 (63.3%) boys met complete DSM criteria for GID in childhood._** The remaining 51 (36.7%) boys were subthreshold for a DSM diagnosis, but all had some indicators of GID, and, based on the historical information provided during the assessment, some would have met the complete DSM criteria at some point in their lives prior to their assessment in childhood.
