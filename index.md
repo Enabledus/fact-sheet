@@ -32,8 +32,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > Immigrants in Sweden are on average ~x2.5 more overrepresented in crime when compared to Swede's
 - [Immigrants overrepresented in Swedish rape statistics](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
 > Immigrants are responsible for
->> 51.3% of convicted rapes
->> 84.1% of convicted assault rapes
+>> 51.3% of convicted rapes,
+>> 84.1% of convicted assault rapes &
 >> 87.9% of convicted gang rapes
 - [Only 4% of immigrants convicted of serious rape against children get deported for a lifetime](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
 > 30% get deported temporarily
