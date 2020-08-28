@@ -43,6 +43,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [In total, people with an immigrant background account for 58 percent of all crimes committed in Sweden today.](https://static1.squarespace.com/static/5c346714b40b9dce95340dd6/t/5de0fa9d5043fe7cebfacee1/1575025312146/G_Adamson_Invandring_och_brottslighet_29nov19.pdf)
 > People with a foreign background are 2.6 times more likely to be registered for having committed a crime than people with a Swedish background.
 >> Immigrants also account for almost 80 percent of registered murders, murder attempts & homicide
+- [Immigrants behind 25% of Swedish crime _1997-2001_](https://archive.is/DIstA)
 
 ### Masks
 - [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
@@ -103,6 +104,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 >> **(It bears mentioning that this does not mean that every Muslim wants to kill every homosexual).**
 - [A majority of Muslims disagree that homosexuality should be legal in Britain](https://www.ipsos.com/sites/default/files/ct/publication/documents/2018-03/a-review-of-survey-research-on-muslims-in-great-britain-ipsos-mori_0.pdf)
 > 38% strongly disagree and 14% tend to disagree, whereas only 8% strongly agree and 10% tend to agree.
+- [The future of the global Muslim population](https://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-europe/)
+> The number of Muslims in Europe has grown from 29.6 million in 1990 to 44.1 million in 2010. Europe’s Muslim population is projected to exceed 58 million by 2030.
 
 ### Prostitution
 - [Does Legalized Prostitution Increase Human Trafficking?](https://orgs.law.harvard.edu/lids/2014/06/12/does-legalized-prostitution-increase-human-trafficking/)
