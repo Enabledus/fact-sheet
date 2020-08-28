@@ -77,7 +77,7 @@ Jew bad!!! homosexual bad!!
 > Countries with legalized prostitution are associated with higher human trafficking inflows than countries where prostitution is prohibited.
 
 ### Soviet
-Criminalized homosexuality blah blah
+- [From emancipation to criminalisation: Stalinist persecution of homosexuals from 1934](https://www.marxist.com/from-emancipation-to-criminalisation-stalinist-persecution-of-homosexuals-from-1934.htm)
 
 ### Race
 iq hmm
