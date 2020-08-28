@@ -71,6 +71,14 @@ Soon
 ### Transgender
 - [Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)
 > **Parents** describe that the onset of gender dysphoria seemed to occur in the context of belonging to a peer group where one, multiple, or even all the friends have become gender dysphoric and transgender-identified during the same timeframe.
+- [Do trans- kids stay trans- when they grow up? ](http://www.sexologytoday.org/2016/01/do-trans-kids-stay-trans-when-they-grow_99.html)
+> The exact number varies by study, but roughly 60–90% of trans- kids turn out no longer to be trans by adulthood.
+- [Psychosexual outcome of gender-dysphoric children](https://pubmed.ncbi.nlm.nih.gov/18981931/)
+>  At follow-up, 30% of the 77 participants (19 boys and 4 girls) did not respond to our recruiting letter or were not traceable; 27% (12 boys and 9 girls) were still gender dysphoric (persistence group), and **43% (desistance group: 28 boys and 5 girls) were no longer gender dysphoric**.
+- [Most children grow out of "gender dysphoria"](https://pubmed.ncbi.nlm.nih.gov/18981931/)
+> We studied 77 children who had been referred in childhood to our clinic because of gender dysphoria (age range 5-12 years, mean 8.4 years)
+>> At follow-up, 30% of the 77 participants (19 boys and 4 girls) did not respond to our recruiting letter or were not traceable; 27% (12 boys and 9 girls) were still gender dysphoric (persistence group), and 43% (desistance group: 28 boys and 5 girls) were no longer gender dysphoric.
+
 
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
