@@ -109,7 +109,7 @@ Soon
 
 ### Race
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
-> 37% Blacks, 32% coloured, 50% Indian/Asian & 47% White have felt racially discriminated against
+> 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have felt racially discriminated against before
 
 iq hmm
 
