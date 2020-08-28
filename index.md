@@ -45,7 +45,8 @@ Test
 - [Left-Wing terrorists are over-represented in terror attacks across the EU](https://www.europol.europa.eu/activities-services/main-reports/european-union-terrorism-situation-and-trend-report-te-sat-2020)
 
 ### Transgender
-Test
+- [Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330)
+> **Parents** describe that the onset of gender dysphoria seemed to occur in the context of belonging to a peer group where one, multiple, or even all the friends have become gender dysphoric and transgender-identified during the same timeframe.
 
 ### Islam
 Jew bad!!! homosexual bad!!
