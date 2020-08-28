@@ -66,7 +66,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [65% of questioned MAPs identify as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
 
 ### Hydroxychloroquine
-Soon
+- [Treatment with Hydroxychloroquine Cut Death Rate Significantly in COVID-19 Patients](https://www.henryford.com/news/2020/07/hydro-treatment-study)
+> The study found 13% of those treated with hydroxychloroquine alone died compared to 26.4% not treated with hydroxychloroquine. 
 
 ### Terrorism
 - [Left-Wing terrorists are responsible for a majority of terror attacks across the EU](https://www.europol.europa.eu/activities-services/main-reports/european-union-terrorism-situation-and-trend-report-te-sat-2020)
