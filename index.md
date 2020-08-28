@@ -1,5 +1,5 @@
 ## General Fact Sheet
-General fact sheet linking to studies and similar. haTEFaCTS
+General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urbandictionary.com/define.php?term=Hate%20Fact)
 
 ### Abortion
 - [Why do women have abortions?](https://pubmed.ncbi.nlm.nih.gov/3243347/)
@@ -17,7 +17,7 @@ Soon
 ### Criminality
 - [Sweden serious crimes spiked (Crime Harm Index)](https://www.researchgate.net/publication/339859109_Designing_the_Swedish_Crime_Harm_Index_an_Evidence-Based_Strategy)
 
-### Jews
+### Judaism
 - [Jews DO control the media](https://web.archive.org/web/20120705065748/http://blogs.timesofisrael.com/jews-do-control-the-media/)
 
 ### Immigration
@@ -72,10 +72,16 @@ Soon
 > **Parents** describe that the onset of gender dysphoria seemed to occur in the context of belonging to a peer group where one, multiple, or even all the friends have become gender dysphoric and transgender-identified during the same timeframe.
 
 ### Islam
-- [28% of British muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
+- [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
 > A variation on this is a desire on the part of 28 percent for Britain to become an Islamic state.
-- [61% of British muslims believe that homosexuality should be illegal](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
-Jew bad!!! homosexual bad!!
+- [61% of British Muslims believe that homosexuality should be illegal](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
+- [13% of Muslims in the UK believe attacks by Al-Qaeda on the United States as justified](https://archive.is/JzOQ4)
+- [27% of British Muslims oppose deportation of Islamic extremists preaching violence and hate](http://www.danielpipes.org/blog/2005/07/more-survey-research-from-a-british-islamist)
+- [Almost 60% of Western European Muslim immigrants reject homosexuals as friends, compared to only 13% of native Christians](http://www.danielpipes.org/blog/2005/07/more-survey-research-from-a-british-islamist)
+- [45% of Western European Muslim immigrants believe that Jews cannot be trusted](https://web.archive.org/web/20140326212201/https://www.wzb.eu/sites/default/files/u6/koopmans_englisch_ed.pdf)
+- [What Does Islam Teach About Homosexuality](https://www.thereligionofpeace.com/pages/quran/homosexuality.aspx)
+> Islam goes beyond merely disapproving of homosexuality. Sharia teaches that homosexuality is a vile form of fornication, punishable by death.
+>> **(It bears mentioning that this does not mean that every Muslim wants to kill every homosexual).**
 
 ### Prostitution
 - [Does Legalized Prostitution Increase Human Trafficking?](https://orgs.law.harvard.edu/lids/2014/06/12/does-legalized-prostitution-increase-human-trafficking/)
