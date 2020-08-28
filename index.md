@@ -87,6 +87,7 @@ Jew bad!!! homosexual bad!!
 ### Race
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
 > 37% Blacks, 32% coloured, 50% Indian/Asian & 47% White have felt racially discriminated against
+
 iq hmm
 
 ### Vaccine
