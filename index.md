@@ -10,6 +10,7 @@ General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urban
 
 ### Race
 - [Infants prefer own race faces](https://www.fatherly.com/health-science/science-little-kids-racist-parents/)
+- [No, racism is not prejudice plus power](https://tsl.news/opinion-no-racism-is-not-prejudice-plus-power/)
 
 ### Holocaust
 Soon
@@ -82,6 +83,8 @@ Soon
 - [What Does Islam Teach About Homosexuality](https://www.thereligionofpeace.com/pages/quran/homosexuality.aspx)
 > Islam goes beyond merely disapproving of homosexuality. Sharia teaches that homosexuality is a vile form of fornication, punishable by death.
 >> **(It bears mentioning that this does not mean that every Muslim wants to kill every homosexual).**
+- [A majority of Muslims disagree that homosexuality should be legal in Britain](https://www.ipsos.com/sites/default/files/ct/publication/documents/2018-03/a-review-of-survey-research-on-muslims-in-great-britain-ipsos-mori_0.pdf)
+> 38% strongly disagree and 14% tend to disagree, whereas only 8% strongly agree and 10% tend to agree.
 
 ### Prostitution
 - [Does Legalized Prostitution Increase Human Trafficking?](https://orgs.law.harvard.edu/lids/2014/06/12/does-legalized-prostitution-increase-human-trafficking/)
