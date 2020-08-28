@@ -78,9 +78,6 @@ Soon
 >> Twenty-one participants (27%; 9 girls and 12 boys) were still gender dysphoric at follow-up (persistence group). All of thesepersisters had met the complete diagnostic criteria for GID [**according to the DSM-IV10 or the DSM-IV-TR11 at follow-up**](https://books.google.se/books?id=atfTHGjjVeIC&pg=PA38#v=onepage&q&f=false) and had applied for sex reassignment at the Gender Identity Clinicbefore the age of 16.
 >>> Twenty-three participants (30%; 19 boys, 4 girls) were visitedat home because they had no longer been seen at the clinic afterchildhood (desistance group). Ten participants (13%) did not want to participate themselves, but they allowed their parents to fill out a questionnaire. This parent group consisted of 9 boys and 1 girl.
 >>>> **Results: Persistence (n = 21), Desistance (n = 23), Nonresponders (n = 23)**
-- [Most children grow out of "gender dysphoria"](https://pubmed.ncbi.nlm.nih.gov/18981931/)
-> We studied 77 children who had been referred in childhood to our clinic because of gender dysphoria (age range 5-12 years, mean 8.4 years)
->> At follow-up, 30% of the 77 participants (19 boys and 4 girls) did not respond to our recruiting letter or were not traceable; 27% (12 boys and 9 girls) were still gender dysphoric (persistence group), and 43% (desistance group: 28 boys and 5 girls) were no longer gender dysphoric.
 - [A Follow-Up Study of Girls With Gender Identity Disorder](https://www.researchgate.net/publication/5657572_A_Follow-Up_Study_of_Girls_With_Gender_Identity_Disorder)
 > At follow-up, 3 participants (12%) were judged to have GID or gender dysphoria, and 40% were subthreshold for the diagnosis.
 >> Regarding sexual orientation, 8 participants (32%) were classified as bisexual/homosexual in fantasy, and 6 (24%) were classified as bisexual/homosexual in behavior.
