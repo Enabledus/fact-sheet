@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+## General Fact Sheet
+General fact sheet linking to studies
 
-You can use the [editor on GitHub](https://github.com/Enabledus/fact-sheet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Abortion
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,9 +25,45 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Racism
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Enabledus/fact-sheet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Holocaust
+Test
+
+### Criminality
+Test
+
+### Jews
+Test
+
+### Immigration
+Test
+
+### Masks
+Test
+
+### Pedophilia
+Test
+
+### Hydroxychloroquine
+Test
+
+### Terrorism
+Left-wing over-represented in EU
+
+### Transgender
+Test
+
+### Islam
+Jew bad!!! homosexual bad!!
+
+### Soviet
+Criminalized homosexuality blah blah
+
+### Race
+iq hmm
 
 ### Support or Contact
 
