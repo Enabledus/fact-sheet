@@ -1,5 +1,5 @@
 ## General Fact Sheet
-General fact sheet linking to studies
+General fact sheet linking to studies and similar. haTEFaCTS
 
 ### Abortion
 - [Why do women have abortions?](https://pubmed.ncbi.nlm.nih.gov/3243347/)
@@ -17,7 +17,7 @@ General fact sheet linking to studies
 Test
 
 ### Criminality
-Test
+- [Sweden serious crimes spiked (Crime Harm Index)](https://www.researchgate.net/publication/339859109_Designing_the_Swedish_Crime_Harm_Index_an_Evidence-Based_Strategy)
 
 ### Jews
 - [Jews DO control the media](https://web.archive.org/web/20120705065748/http://blogs.timesofisrael.com/jews-do-control-the-media/)
@@ -84,3 +84,6 @@ iq hmm
 ### Vaccine
 - [Biocompatible near-infrared quantum dots delivered to the skin by microneedle patches record vaccination](https://pubmed.ncbi.nlm.nih.gov/31852802/)
 - [Receiving influenza vaccination **may** increase the risk of other respiratory viruses](https://pubmed.ncbi.nlm.nih.gov/31607599/)
+
+### NSDAP
+- [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
