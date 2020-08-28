@@ -7,35 +7,13 @@ General fact sheet linking to studies
 - [A shameful silence from biology professors regarding when life begins ](https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/)
 - [Biologists' Consensus on 'When Life Begins'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211703)
 > Overall, 95% of all biologists affirmed the biological view that a human's life begins at fertilization (5212 out of 5502)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Racism
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Enabledus/fact-sheet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Test
 
 ### Holocaust
 - [10% of idk do idk](http://google.com)
-> Cool fact
+> Cool fact ik
 Test
 
 ### Criminality
@@ -81,7 +59,3 @@ Jew bad!!! homosexual bad!!
 
 ### Race
 iq hmm
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
