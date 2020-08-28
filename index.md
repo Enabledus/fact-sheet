@@ -28,8 +28,17 @@ In 2017, the newspaper Expressen did a survey of 192 individuals in Stockholm, w
 Yet another set of data was assembled in 2017 by Dagens Nyheter. The material consisted of 100 criminals registered or suspected in investigations on gunfire on public places between 2013 and 2017. 90 of them (90%) had one or two foreign-born parents. Among them, about every second had arrived in Sweden when they were young, while the rest were born in Sweden.
 - [Characteristics of convicted male-on-female rapists in the South of Sweden between 2013 and 2018: a pilot study](https://www.tandfonline.com/doi/full/10.1080/20961790.2020.1757245)
 > We reviewed all convictions (n = 21) based on court documents from the District Court, the Court of Appeal and information from the Swedish Tax Agency in Malmö, Sweden, between 2013 and 2018. The findings indicated that the most common offender characteristics were a single status, mean age of 33 years and foreign background.
-
-Include PJonasson 2017
+- [Invandrares och invandrares barns borttslighet](https://affes.files.wordpress.com/2016/08/br-1996-2-invandrares-och-invandrares-barns-brottslighet-1.pdf)
+> Immigrants in Sweden are on average ~x2.5 more overrepresented in crime when compared to Swede's
+- [Immigrants overrepresented in Swedish rape statistics](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
+> Immigrants are responsible for
+>> 51.3% of convicted rapes
+>> 84.1% of convicted assault rapes
+>> 87.9% of convicted gang rapes
+- [Only 4% of immigrants convicted of serious rape against children get deported for a lifetime](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
+> 30% get deported temporarily
+- [Only 2% of immigrants convicted of rape get deported for a lifetime](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
+> 28% get deported temporarily
 
 ### Masks
 - [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
