@@ -40,6 +40,9 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > 30% get deported temporarily
 - [Only 2% of immigrants convicted of rape get deported for a lifetime](https://pjjonasson.files.wordpress.com/2017/11/sexualbrottslighet_bland_man_fodda_i_sverige_och_i_utlandet_v4.pdf)
 > 28% get deported temporarily
+- [In total, people with an immigrant background account for 58 percent of all crimes committed in Sweden today.](https://static1.squarespace.com/static/5c346714b40b9dce95340dd6/t/5de0fa9d5043fe7cebfacee1/1575025312146/G_Adamson_Invandring_och_brottslighet_29nov19.pdf)
+> People with a foreign background are 2.6 times more likely to be registered for having committed a crime than people with a Swedish background.
+>> Immigrants also account for almost 80 percent of registered murders, murder attempts & homicide
 
 ### Masks
 - [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
