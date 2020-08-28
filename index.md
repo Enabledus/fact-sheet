@@ -37,7 +37,8 @@ Include PJonasson 2017
 - [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
 - [The use of N95 respirators compared with surgical masks is not associated with a lower risk of laboratory-confirmed influenza.](https://pubmed.ncbi.nlm.nih.gov/32167245/)
 - [The rates of all infection outcomes were highest in the cloth mask arm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/)
-> The rates of all infection outcomes were highest in the cloth mask arm, with the rate of ILI statistically. Penetration of cloth masks by particles was almost 97% and medical masks 44%.
+> Hospital wards were randomised to: medical masks, cloth masks or a control group (usual practice, which included mask wearing). Participants used the mask on every shift for 4 consecutive weeks.
+>> The rates of all infection outcomes were highest in the cloth mask arm, with the rate of ILI statistically. Penetration of cloth masks by particles was almost 97% and medical masks 44%.
 - [Unmasking the surgeons: the evidence base behind the use of facemasks in surgery](https://journals.sagepub.com/doi/full/10.1177/0141076815583167)
 > However, overall there is a lack of substantial evidence to support claims that facemasks protect either patient or surgeon from infectious contamination.
 - [Respiratory performance offered by N95 respirators and surgical masks](https://pubmed.ncbi.nlm.nih.gov/18326870/)
