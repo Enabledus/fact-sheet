@@ -34,10 +34,14 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 Include PJonasson 2017
 
 ### Masks
-Test
+- [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
+- [The use of N95 respirators compared with surgical masks is not associated with a lower risk of laboratory-confirmed influenza.](https://pubmed.ncbi.nlm.nih.gov/32167245/)
+- [The rates of all infection outcomes were highest in the cloth mask arm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/)
+> The rates of all infection outcomes were highest in the cloth mask arm, with the rate of ILI statistically. Penetration of cloth masks by particles was almost 97% and medical masks 44%.
+- [None of the tested surgical masks exhibited adequate filter performance and facial fit characteristics to be considered respiratory protection devices.](https://pubmed.ncbi.nlm.nih.gov/18455048/)
 
 ### Pedophilia
-- [65% of questioned MAPs defined themselves as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
+- [65% of questioned MAPs identify as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
 
 ### Hydroxychloroquine
 Test
