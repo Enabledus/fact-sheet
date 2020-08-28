@@ -6,7 +6,7 @@ General fact sheet linking to studies
 - [The science is conclusive: That fetus is a baby](https://eu.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/12/12/science-conclusive-fetus-baby-iowa-fetal-heartbeat-law-abortion/2286938002/)
 - [A shameful silence from biology professors regarding when life begins ](https://www.thecollegefix.com/a-shameful-silence-from-biology-professors-regarding-when-life-begins/)
 - [Biologists' Consensus on 'When Life Begins'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211703)
-> Overall, 95% of all biologists affirmed the biological view that a human's life begins at fertilization (5212 out of 5502)
+> Overall, 95% of all biologists affirmed the biological view that a human's life begins at fertilization (5212 out of 5502).
 
 ### Racism
 Test
