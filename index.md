@@ -94,6 +94,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 
 ### Sexual Orientation
 - [Gay Child Molesters Caught on Tape](https://www.dropbox.com/s/da3yd88ahr4rhnb/Gay%20Child%20Molesters%20Caught%20on%20Tape%21%20Hidden%20Cam.%20Explicit%20Content%21%20By%20Journalist%20Ryan%20Sorba.mp4?dl=0)
+- [46% of homosexual men in contrast to 7% of the heterosexual men reported being homosexually molested](https://pubmed.ncbi.nlm.nih.gov/11501300/)
+- [22% of lesbian women in contrast to 1% of heterosexual women reported being homosexually molested](https://pubmed.ncbi.nlm.nih.gov/11501300/)
 
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
@@ -110,6 +112,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > 38% strongly disagree and 14% tend to disagree, whereas only 8% strongly agree and 10% tend to agree.
 - [The future of the global Muslim population](https://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-europe/)
 > The number of Muslims in Europe has grown from 29.6 million in 1990 to 44.1 million in 2010. Europe’s Muslim population is projected to exceed 58 million by 2030.
+- [33% of Muslims in America believe that Sharia law is greater than the Constitution](https://archive.is/cd1Eg)
+- [29% of Muslims in America believe that violence against those that insult the prophet Muhammad or Islamic faith is acceptable](https://archive.is/cd1Eg)
 
 ### Prostitution
 - [Does Legalized Prostitution Increase Human Trafficking?](https://orgs.law.harvard.edu/lids/2014/06/12/does-legalized-prostitution-increase-human-trafficking/)
@@ -120,7 +124,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 
 ### Race
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
-> 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have felt racially discriminated against before
+> 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have reported feeling racially discriminated against before
 
 iq hmm
 
