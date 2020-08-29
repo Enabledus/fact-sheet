@@ -139,3 +139,4 @@ iq hmm
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
 - [Why Nazism Was Socialism and Why Socialism Is Totalitarian](https://mises.org/library/why-nazism-was-socialism-and-why-socialism-totalitarian)
+- [Adolf Hitler's Warning](https://www.impartialtruth.com/video/informative/adolf-hitlers-warning/)
