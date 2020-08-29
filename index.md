@@ -13,7 +13,7 @@ General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urban
 - [No, racism is not prejudice plus power](https://tsl.news/opinion-no-racism-is-not-prejudice-plus-power/)
 
 ### Holocaust
-Soon
+- [What Life Was Really Like At Auschwitz](https://www.bitchute.com/video/KiwHozAsw1Il/)
 
 ### Criminality
 - [Sweden serious crimes spiked (Crime Harm Index)](https://www.researchgate.net/publication/339859109_Designing_the_Swedish_Crime_Harm_Index_an_Evidence-Based_Strategy)
@@ -44,6 +44,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > People with a foreign background are 2.6 times more likely to be registered for having committed a crime than people with a Swedish background.
 >> Immigrants also account for almost 80 percent of registered murders, murder attempts & homicide
 - [Immigrants behind 25% of Swedish crime _1997-2001_](https://archive.is/DIstA)
+- [Sweden's ethnic population is declining](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101Q/UtlSvBakgFin/table/tableViewLayout1/?rxid=aac17310-90da-46a1-980c-8f15bbbad267)
 
 ### Masks
 - [N95 filtering facepiece respirators may not achieve the expected protection level against bacteria and viruses.](https://pubmed.ncbi.nlm.nih.gov/18326870/)
@@ -90,6 +91,9 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [A Follow-Up Study Of Boys With GID](https://images.nymag.com/images/2/daily/2016/01/SINGH-DISSERTATION.pdf)
 > The present study found that the majority of boys with GID showed desistence of their gender dysphoria when followed into adolescence and adulthood: 87.8% of the boys did
 >>> ⚠️ **criteria applicable at the time of assessment. A total of _88 (63.3%) boys met complete DSM criteria for GID in childhood._** The remaining 51 (36.7%) boys were subthreshold for a DSM diagnosis, but all had some indicators of GID, and, based on the historical information provided during the assessment, some would have met the complete DSM criteria at some point in their lives prior to their assessment in childhood.
+
+### Sexual Orientation
+- [Gay Child Molesters Caught on Tape](https://www.dropbox.com/s/da3yd88ahr4rhnb/Gay%20Child%20Molesters%20Caught%20on%20Tape%21%20Hidden%20Cam.%20Explicit%20Content%21%20By%20Journalist%20Ryan%20Sorba.mp4?dl=0)
 
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
