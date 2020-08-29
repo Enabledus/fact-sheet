@@ -91,6 +91,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [A Follow-Up Study Of Boys With GID](https://images.nymag.com/images/2/daily/2016/01/SINGH-DISSERTATION.pdf)
 > The present study found that the majority of boys with GID showed desistence of their gender dysphoria when followed into adolescence and adulthood: 87.8% of the boys did
 >>> ⚠️ **criteria applicable at the time of assessment. A total of _88 (63.3%) boys met complete DSM criteria for GID in childhood._** The remaining 51 (36.7%) boys were subthreshold for a DSM diagnosis, but all had some indicators of GID, and, based on the historical information provided during the assessment, some would have met the complete DSM criteria at some point in their lives prior to their assessment in childhood.
+>>>> **87.8 * 0.633** = 55.5774% of those that met the complete DSM criteria desisted.
 
 ### Sexual Orientation
 - [Gay Child Molesters Caught on Tape](https://www.dropbox.com/s/da3yd88ahr4rhnb/Gay%20Child%20Molesters%20Caught%20on%20Tape%21%20Hidden%20Cam.%20Explicit%20Content%21%20By%20Journalist%20Ryan%20Sorba.mp4?dl=0)
