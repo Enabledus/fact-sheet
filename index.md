@@ -142,3 +142,5 @@ iq hmm
 - [Adolf Hitler's Warning](https://www.impartialtruth.com/video/informative/adolf-hitlers-warning/)
 - [Adolf Hitler Explains Why They Attacked Stalingrad](https://www.impartialtruth.com/video/historical/adolf-hitler-explains-why-they-attacked-stalingrad/)
 - [Adolf Hitler — Speech To The Workers](https://www.impartialtruth.com/video/historical/adolf-hitler-speech-to-the-workers/)
+- [The Truth About Adolf Hitler](https://www.altcensored.com/watch?v=xlRLhIVBAIs)
+- [The Greatest Story NEVER Told](https://thegreateststorynevertold.tv/)
