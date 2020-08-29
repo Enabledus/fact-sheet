@@ -119,6 +119,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [33% of Muslims in America believe that Sharia law is greater than the Constitution](https://archive.is/cd1Eg)
 - [29% of Muslims in America believe that violence against those that insult the prophet Muhammad or Islamic faith is acceptable](https://archive.is/cd1Eg)
 - [Muslims are encouraged to live in the way of Muhammad, who was a slave owner and trader](https://www.thereligionofpeace.com/pages/quran/slavery.aspx#hadith)
+- [Ex Muslims tell their story about Islam](https://exmuslimtv.org/)
 
 ### Prostitution
 - [Does Legalized Prostitution Increase Human Trafficking?](https://orgs.law.harvard.edu/lids/2014/06/12/does-legalized-prostitution-increase-human-trafficking/)
