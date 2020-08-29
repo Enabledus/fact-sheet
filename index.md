@@ -147,3 +147,4 @@ iq hmm
 
 ### Oswald Mosley
 - [Top 10 Lies about Oswald Mosley and his supporters](https://www.oswaldmosley.com/top-10-lies-about-oswald-mosley/)
+- [Fascism: 100 Questions & Answers](https://media.8kun.top/file_store/002849d600a1bb8d876af6a83f020d9f84e99feb80c01695000b7f234cd0638b.pdf)
