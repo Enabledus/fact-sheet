@@ -96,6 +96,9 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [Gay Child Molesters Caught on Tape](https://www.dropbox.com/s/da3yd88ahr4rhnb/Gay%20Child%20Molesters%20Caught%20on%20Tape%21%20Hidden%20Cam.%20Explicit%20Content%21%20By%20Journalist%20Ryan%20Sorba.mp4?dl=0)
 - [46% of homosexual men in contrast to 7% of the heterosexual men reported being homosexually molested](https://pubmed.ncbi.nlm.nih.gov/11501300/)
 - [22% of lesbian women in contrast to 1% of heterosexual women reported being homosexually molested](https://pubmed.ncbi.nlm.nih.gov/11501300/)
+- [People with lesbian mother(s) are x3.88 more likely to ever of have reported being raped than people in their intact bio family](https://www.baylorisr.org/wp-content/uploads/Regnerus.pdf)
+> They are also x3.8 more likely to report ever being touched sexually by a parent/adult than people with gay father(s)
+- [People with gay father(s) are x3.1 more likely to ever of have reported being raped than people in their intact bio family](https://www.baylorisr.org/wp-content/uploads/Regnerus.pdf)
 
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
