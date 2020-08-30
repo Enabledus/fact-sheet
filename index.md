@@ -11,6 +11,10 @@ General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urban
 ### Race
 - [Infants prefer own race faces](https://www.fatherly.com/health-science/science-little-kids-racist-parents/)
 - [No, racism is not prejudice plus power](https://tsl.news/opinion-no-racism-is-not-prejudice-plus-power/)
+- [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
+> 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have reported feeling racially discriminated against before
+
+iq hmm
 
 ### Holocaust
 - [What Life Was Really Like At Auschwitz](https://www.bitchute.com/video/KiwHozAsw1Il/)
@@ -127,12 +131,6 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 
 ### Soviet
 - [From emancipation to criminalisation: Stalinist persecution of homosexuals from 1934](https://www.marxist.com/from-emancipation-to-criminalisation-stalinist-persecution-of-homosexuals-from-1934.htm)
-
-### Race
-- [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
-> 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have reported feeling racially discriminated against before
-
-iq hmm
 
 ### Vaccine
 - [Biocompatible near-infrared quantum dots delivered to the skin by microneedle patches record vaccination](https://pubmed.ncbi.nlm.nih.gov/31852802/)
