@@ -70,6 +70,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 
 ### Pedophilia
 - [65% of questioned MAPs identify as non-Hetero](https://osf.io/w4bze/download/?version=2&displayName=Suppression%20and%20Help-Seeking%20in%20MAPs%20(Harper%20et%20al.%20-%20preprint)-2019-11-05T11%3A41%3A36.304Z.pdf)
+- [The average age of onset for MAP actors is 13.09 years](https://www.researchgate.net/publication/319559563_Comparison_of_Self-Identified_Minor-Attracted_Persons_Who_Have_and_Have_Not_Successfully_Refrained_From_Sexual_Activity_With_Children)
 
 ### Hydroxychloroquine
 - [Treatment with Hydroxychloroquine Cut Death Rate Significantly in COVID-19 Patients](https://www.henryford.com/news/2020/07/hydro-treatment-study)
@@ -96,6 +97,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > The present study found that the majority of boys with GID showed desistence of their gender dysphoria when followed into adolescence and adulthood: 87.8% of the boys did
 >>> ⚠️ **criteria applicable at the time of assessment. A total of _88 (63.3%) boys met complete DSM criteria for GID in childhood._** The remaining 51 (36.7%) boys were subthreshold for a DSM diagnosis, but all had some indicators of GID, and, based on the historical information provided during the assessment, some would have met the complete DSM criteria at some point in their lives prior to their assessment in childhood.
 >>>> **87.8 * 0.633** = 55.5774% of those that met the complete DSM criteria desisted. Which means that only _44.4226% Persisted_ - Which confirms the results of [Psychosexual outcome of gender-dysphoric children](https://pubmed.ncbi.nlm.nih.gov/18981931/), which found that only 47.73% Persisted.
+- [0.3-0.8% of trans individuals commit suicide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317390/)
 
 ### Sexual Orientation
 - [Gay Child Molesters Caught on Tape](https://www.dropbox.com/s/da3yd88ahr4rhnb/Gay%20Child%20Molesters%20Caught%20on%20Tape%21%20Hidden%20Cam.%20Explicit%20Content%21%20By%20Journalist%20Ryan%20Sorba.mp4?dl=0)
@@ -104,7 +106,7 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [People with lesbian mother(s) are x3.88 more likely to ever of have reported being raped than people in their intact bio family](https://www.baylorisr.org/wp-content/uploads/Regnerus.pdf)
 > They are also x3.8 more likely to report ever being touched sexually by a parent/adult than people with gay father(s)
 - [People with gay father(s) are x3.1 more likely to ever of have reported being raped than people in their intact bio family](https://www.baylorisr.org/wp-content/uploads/Regnerus.pdf)
-
+- [Gay men report 1.6 to 4 times greater prevalence of sexual and physical abuse than heterosexuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535560/)
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
 > A variation on this is a desire on the part of 28 percent for Britain to become an Islamic state.
