@@ -107,6 +107,8 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 > They are also x3.8 more likely to report ever being touched sexually by a parent/adult than people with gay father(s)
 - [People with gay father(s) are x3.1 more likely to ever of have reported being raped than people in their intact bio family](https://www.baylorisr.org/wp-content/uploads/Regnerus.pdf)
 - [Gay men report 1.6 to 4 times greater prevalence of sexual and physical abuse than heterosexuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535560/)
+- [20-40% of the homeless youth population is LGBT](https://www.americanprogress.org/issues/lgbt/news/2010/06/21/7980/gay-and-transgender-youth-homelessness-by-the-numbers/)
+
 ### Islam
 - [28% of British Muslims want Britain to be an islamic state](http://civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf)
 > A variation on this is a desire on the part of 28 percent for Britain to become an Islamic state.
