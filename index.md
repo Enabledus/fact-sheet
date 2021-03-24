@@ -142,21 +142,17 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 
 ### Male rape under-reported
 - [Effects of Rape on Men: A Descriptive Analysis](https://www.researchgate.net/publication/7961649_Effects_of_Rape_on_Men_A_Descriptive_Analysis)
-> Only five (12.5%) out of the 40 men ever reported the assault to the police. And of those who did report, only one man said that the police were responsive and helpful. The other four found the police to be unsympathetic, disinterest and homophobic.
-> The length of time that passed before victims disclosed their assault ranged from a few hours to 20 years.
-> 70% (n=28) were between 16-25 years of age
->> ["If researchers asked about experiences with sexual assault since age 14, they clearly would find higher prevalence rates than if they asked about sexual assault since age 18. Consideration of the time-frame utilized in the study is important when drawing conclusions based on one or multiple studies."](https://www.sciencedirect.com/science/article/abs/pii/S0272735810001443)
-> 82.5% (n=33) of the men felt guilt and self-blame, e.g. for not being able to prevent the assault.
->> Men may restrain from reporting their assault because of self-blame and guilt, and the societal expectations of male masculinity. As highlighted in [Insook Kwon et. al.](https://sci-hub.st/https://journals.sagepub.com/doi/10.1177/0886260507302998) _"Men who are victimized by sexual violence, then, become someone whose masculinity is lacking or damaged."_
-> Medical services were utilized by 14 (35%) of the men. However, of these, only five reported the sexual context of the assault
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Acceptance of Male Rape Myths Among College Men and Women](https://sci-hub.st/https://link.springer.com/article/10.1007/BF00290011)
+- [Sexual Violence Among Men in the Military in South Korea](https://sci-hub.st/https://journals.sagepub.com/doi/10.1177/0886260507302998)
+- [Male Sexual Victimization: Examining Men's Experiences of Rape and Sexual Assault](https://sci-hub.st/https://journals.sagepub.com/doi/abs/10.1177/1097184X08322632)
+- [Men's Reports of Nonconsensual Sexual Interactions with Women: Prevalence and Impact](https://www.researchgate.net/publication/10790762_Men%27s_Reports_of_Nonconsensual_Sexual_Interactions_with_Women_Prevalence_and_Impact)
+- [Sexual Assault Supportive Attitudes: Rape Myth Acceptance and Token Resistance in Greek and Non-Greek College Students From Two University Samples in the United States](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/26944340/)
+- [Breaking with Norms of Masculinity: Men Making Sense of Their Experience of Sexual Assault](https://link.springer.com/article/10.1007%2Fs10615-019-00699-y)
+- [Male rape: offenders and victims](https://sci-hub.st/https://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.137.7.806?journalCode=ajp)
+- [Report: Experiences of men forced-to-penetrate women in the UK: Context, consequences, and engagement with the criminal justice system](http://wp.lancs.ac.uk/forced-to-penetrate-cases/files/2019/07/BA-FTP-project-report-2019.pdf)
+- [Sexual molestation of men by women](https://sci-hub.st/10.1007/BF01541979)
+- [The Sexual Victimization of Men in America: New Data Challenge Old Assumptions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4062022/)
+- [The Effects of Sexual Assault on Men: A Survey of 22 Victims](https://www.researchgate.net/publication/20429443_The_Effects_of_Sexual_Assault_on_Men_A_Survey_of_22_Victims)
 
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
