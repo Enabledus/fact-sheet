@@ -11,10 +11,9 @@ General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urban
 ### Race
 - [Infants prefer own race faces](https://www.fatherly.com/health-science/science-little-kids-racist-parents/)
 - [No, racism is not prejudice plus power](https://tsl.news/opinion-no-racism-is-not-prejudice-plus-power/)
+- [Non-white participants were significantly more like than white participants to agree with homophobic remarks](https://pubmed.ncbi.nlm.nih.gov/12856759/)
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
 > 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have reported feeling racially discriminated against before
-- [Non-white participants were significantly more like than white participants to agree with homophobic remarks](https://pubmed.ncbi.nlm.nih.gov/12856759/)
--
 iq hmm
 
 ### Holocaust
