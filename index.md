@@ -154,6 +154,13 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [The Sexual Victimization of Men in America: New Data Challenge Old Assumptions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4062022/)
 - [The Effects of Sexual Assault on Men: A Survey of 22 Victims](https://www.researchgate.net/publication/20429443_The_Effects_of_Sexual_Assault_on_Men_A_Survey_of_22_Victims)
 
+### eRECtiON eQUALs consENT
+- [Several of the men reported getting erections and ejaculating during the assault](https://www.researchgate.net/publication/7961649_Effects_of_Rape_on_Men_A_Descriptive_Analysis)
+- [Slight physical stimulation of the genitalia, general body tensions, and generalized emotional situations bring immediate erection, even when there is no specifically sexual situation involved](https://books.google.se/books?id=pfMKrY3VvigC)
+- [This study of 22 male-on-male rape victims found that half of the victims maintained an erection throughout their assaults.](https://sci-hub.st/https://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.137.7.806?journalCode=ajp)
+- [One of the participants pointed out being threatened with castration by women if he did not maintain his erection](https://sci-hub.st/10.1007/BF01541979)
+- [Case reports of a schizophrenic and a neurotic patient in whom no direct sexual precipitants of spontaneous ejaculation could be identified](https://pubmed.ncbi.nlm.nih.gov/6614221/)
+
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
 - [Why Nazism Was Socialism and Why Socialism Is Totalitarian](https://mises.org/library/why-nazism-was-socialism-and-why-socialism-totalitarian)
