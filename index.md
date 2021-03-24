@@ -167,6 +167,9 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 ### Survey accuracy
 - [Men with documented history of childhood sexual abuse are four times less likely to disclose to surveys, even anonymous, than women](https://www.jimhopper.com/pdf/widom1997.pdf)
 
+### Gynocentrism
+- [Bias against men's issues within the United Nations and the World Health Organization: A content analysis](https://www.researchgate.net/publication/346521168_Bias_against_men%27s_issues_within_the_United_Nations_and_the_World_Health_Organization_A_content_analysis)
+
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
 - [Why Nazism Was Socialism and Why Socialism Is Totalitarian](https://mises.org/library/why-nazism-was-socialism-and-why-socialism-totalitarian)
