@@ -140,6 +140,24 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [Biocompatible near-infrared quantum dots delivered to the skin by microneedle patches record vaccination](https://pubmed.ncbi.nlm.nih.gov/31852802/)
 - [Receiving influenza vaccination **may** increase the risk of other respiratory viruses](https://pubmed.ncbi.nlm.nih.gov/31607599/)
 
+### Male rape under-reported
+- [Effects of Rape on Men: A Descriptive Analysis](https://www.researchgate.net/publication/7961649_Effects_of_Rape_on_Men_A_Descriptive_Analysis)
+> Only five (12.5%) out of the 40 men ever reported the assault to the police. And of those who did report, only one man said that the police were responsive and helpful. The other four found the police to be unsympathetic, disinterest and homophobic.
+> The length of time that passed before victims disclosed their assault ranged from a few hours to 20 years.
+> 70% (n=28) were between 16-25 years of age
+>> ["If researchers asked about experiences with sexual assault since age 14, they clearly would find higher prevalence rates than if they asked about sexual assault since age 18. Consideration of the time-frame utilized in the study is important when drawing conclusions based on one or multiple studies."](https://www.sciencedirect.com/science/article/abs/pii/S0272735810001443)
+> 82.5% (n=33) of the men felt guilt and self-blame, e.g. for not being able to prevent the assault.
+>> Men may restrain from reporting their assault because of self-blame and guilt, and the societal expectations of male masculinity. As highlighted in [Insook Kwon et. al.](https://sci-hub.st/https://journals.sagepub.com/doi/10.1177/0886260507302998) _"Men who are victimized by sexual violence, then, become someone whose masculinity is lacking or damaged."_
+> Medical services were utilized by 14 (35%) of the men. However, of these, only five reported the sexual context of the assault
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
 - [Why Nazism Was Socialism and Why Socialism Is Totalitarian](https://mises.org/library/why-nazism-was-socialism-and-why-socialism-totalitarian)
