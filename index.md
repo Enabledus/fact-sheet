@@ -13,7 +13,8 @@ General fact sheet linking to studies and similar. [haTEFaCTS](https://www.urban
 - [No, racism is not prejudice plus power](https://tsl.news/opinion-no-racism-is-not-prejudice-plus-power/)
 - [Racial discrimination in South Africa](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/325/related_materials)
 > 37% blacks, 32% coloured, 50% Indian/Asian & 47% white have reported feeling racially discriminated against before
-
+- [Non-white participants were significantly more like than white participants to agree with homophobic remarks](https://pubmed.ncbi.nlm.nih.gov/12856759/)
+-
 iq hmm
 
 ### Holocaust
@@ -160,6 +161,12 @@ Yet another set of data was assembled in 2017 by Dagens Nyheter. The material co
 - [This study of 22 male-on-male rape victims found that half of the victims maintained an erection throughout their assaults.](https://sci-hub.st/https://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.137.7.806?journalCode=ajp)
 - [One of the participants pointed out being threatened with castration by women if he did not maintain his erection](https://sci-hub.st/10.1007/BF01541979)
 - [Case reports of a schizophrenic and a neurotic patient in whom no direct sexual precipitants of spontaneous ejaculation could be identified](https://pubmed.ncbi.nlm.nih.gov/6614221/)
+
+### SSRI's and stimulants
+- [Dispelling the myth that SSRI's and stimulants are a major cause of school shootings in the U.S](https://www.researchgate.net/publication/308220517_Psychiatric_Medications_and_School_Shootings)
+
+### Survey accuracy
+- [Men with documented history of childhood sexual abuse are four times less likely to disclose to surveys, even anonymous, than women](https://www.jimhopper.com/pdf/widom1997.pdf)
 
 ### NSDAP
 - [Hitler's Socialism](https://www.youtube.com/watch?v=eCkyWBPaTC8)
